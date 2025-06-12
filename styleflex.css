@@ -1,0 +1,15 @@
+.box {
+  display: flex;
+  justify-content: center;
+}
+
+.child {
+  flex-grow: 1;
+}
+
+.box-item {
+  width: 100px;
+  height: 100px;
+  background-color: #52a049;
+  border: 2px solid #fff;
+}
